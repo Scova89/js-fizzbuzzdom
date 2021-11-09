@@ -8,7 +8,7 @@
 
 .container{
     background-color: rgb(8 59 76);
-    
+    padding: 70px 0;
 }
 
 h1{
@@ -16,11 +16,12 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40pt;
     text-align: center;
+    margin-bottom: 80px;
 }
 
 .cont-box{
     display: flex;
-    
+    padding: 0 30px;
 }
 
 ul{
@@ -28,20 +29,27 @@ ul{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    
 }
 
 
 .box{
-    height: 90px;
-    width: 90px;
-    background-color: blueviolet;
-    
+    height: 100px;
+    width: 100px;
+    background-color: rgb(19 137 178);
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
 }
 
 .Fizz{
-    background-color: brown;
+    background-color: rgb(11 214 161);
 }
 
-.Buzz
+.Buzz{
+    background-color: rgb(255 209 102);
+}
 
-.FizzBuzz
+.FizzBuzz{
+    background-color: rgb(240 70 111);
+}

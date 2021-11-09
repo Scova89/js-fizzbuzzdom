@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    background-color: aqua;
+}
+
+ul{
+    list-style: none;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+}
+
+.Fizz{
+    background-color: brown;
+}
+
+.Buzz
+
+.FizzBuzz

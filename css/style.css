@@ -7,17 +7,35 @@
 
 
 .container{
-    background-color: aqua;
+    background-color: rgb(8 59 76);
+    
+}
+
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40pt;
+    text-align: center;
+}
+
+.cont-box{
+    display: flex;
+    
 }
 
 ul{
     list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
+
 .box{
-    height: 100px;
-    width: 100px;
+    height: 90px;
+    width: 90px;
     background-color: blueviolet;
+    
 }
 
 .Fizz{
